@@ -1,7 +1,7 @@
 # Olá! Eu sou o João Vitor Trindade
 
 🎓 Estudante de **Engenharia de Software** na UTFPR (Cornélio Procópio)  
-👨‍💻 Trainee de Desenvolvimento **Front-End** na UNECT JR  
+👨‍💻 Acessor de Desenvolvimento **Front-End** na UNECT JR  
 💡 Interessado em desenvolvimento web com foco em **React.js**  
 📚 Atualmente estudando **C** e **Java** na faculdade, além de **HTML, CSS e React** por conta própria
 
