@@ -6,7 +6,7 @@ Desenvolvedor Front-End e estudante de Engenharia de Software apaixonado por cri
 
 ### Sobre Mim
 
-👨‍💻 Atualmente, sou Desenvolvedor Front-End na [Unect Jr](https-link-para-o-site-ou-linkedin-da-unect-jr), a empresa júnior da UTFPR. Aqui, tenho a oportunidade de transformar conhecimento teórico em experiência prática, desenvolvendo projetos para clientes e participando de capacitações técnicas contínuas.
+👨‍💻 Atualmente, sou Desenvolvedor Front-End na [Unect Jr](https://github.com/unect-jr), a empresa júnior da UTFPR. Aqui, tenho a oportunidade de transformar conhecimento teórico em experiência prática, desenvolvendo projetos para clientes e participando de capacitações técnicas contínuas.
 
 🚀 Minha principal stack é focada em **JavaScript/TypeScript**, com experiência sólida no desenvolvimento de aplicações com **React.js** e **React Native**.
 
