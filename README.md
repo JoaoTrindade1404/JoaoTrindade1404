@@ -16,11 +16,11 @@ Desenvolvedor Front-End e estudante de Engenharia de Software apaixonado por cri
 
 ### Tecnologias que Utilizo
 
-| Front-End                               | Back-End (Estudando/Interesse) | Outras Linguagens | Ferramentas e Banco de Dados |
+| Front-End                               | Back-End (Estudando) | Outras Linguagens | Ferramentas e Banco de Dados |
 | --------------------------------------- | ------------------------------ | ----------------- | ---------------------------- |
 | React.js                                | Node.js                        | Python            | Git                          |
 | React Native                            | PHP (WordPress)                | Java              | Firebase                     |
-| JavaScript                              |                                | C                 | MySQL                        |
+| JavaScript                              | Springboot                     | C                 | MySQL                        |
 | TypeScript                              |                                |                   | Metodologias Ágeis           |
 | HTML5 & CSS3                            |                                |                   |                              |
 
