@@ -40,17 +40,17 @@ Atualmente, combino a robustez do **Java/Spring Boot** no back-end com a interat
 
 ### 🏆 Projetos em Destaque
 
-#### 🤖 [Calamity Mod AI Assistant]([https://github.com/JoaoTrindade1404](https://github.com/JoaoTrindade1404/Terraria-Calamity-AI)) *(IA Generativa)*
+#### 🤖 [Calamity Mod AI Assistant](https://github.com/JoaoTrindade1404/Terraria-Calamity-AI) *(IA Generativa)*
 Um agente inteligente capaz de responder dúvidas complexas sobre jogos utilizando **RAG (Retrieval-Augmented Generation)**.
 - **Tech:** Python, Gemini 1.5 API, Embeddings, Web Scraping.
 - **Destaque:** Engenharia de prompt avançada para garantir precisão matemática nas respostas.
 
-#### 🚌 [AETA App - Gestão de Transporte](Projeto para empresa Unect Jr) *(Mobile)*
-Aplicativo para gestão de associados e transporte estudantil com foco em uso offline.
-- **Tech:** React Native, Firebase, API Gateway.
-- **Impacto:** Implementação de identidade digital via QR Code e sistema robusto para redes instáveis.
+#### 📝 **Módulo de Blog Institucional** *(Frontend Architecture)*
+Desenvolvi sozinho a arquitetura e as páginas do blog da Unect Jr, consumindo uma API WordPress Headless.
+- **Tech:** React.js, WordPress API, Service/Repository Pattern.
+- **Impacto:** Criei toda a lógica de integração e renderização. Otimizei a performance com estratégias de *Debounce* e carregamento progressivo, reduzindo o tempo de carga em **25%**.
 
-#### 🛍️ [Game Marketplace API]([https://github.com/JoaoTrindade1404](https://github.com/JoaoTrindade1404/ProjetoPOO2)) *(Backend Robusto)*
+#### 🛍️ [Game Marketplace API](https://github.com/JoaoTrindade1404/ProjetoPOO2) *(Backend Robusto)*
 API REST inspirada na Steam, focada em integridade de dados e padrões de projeto.
 - **Tech:** Java, Spring Boot, PostgreSQL.
 - **Destaque:** Implementação de **ACID** para transações financeiras, Soft Delete e **Strategy Pattern** para regras de negócio.
