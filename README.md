@@ -1,37 +1,76 @@
-### Olá, eu sou o João Vitor! 👋
+# Olá, eu sou o João Vitor! 👋
 
-Desenvolvedor Front-End e estudante de Engenharia de Software apaixonado por criar soluções web e mobile que resolvem problemas reais.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Engenharia%20de%20Software%20&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20Java%20%7C%20React%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50" />
+</div>
+
+### 🚀 Sobre Mim
+
+Sou estudante de **Engenharia de Software na UTFPR** e Desenvolvedor Full Stack na **Unect Jr**. Minha paixão não é apenas escrever código, mas projetar arquiteturas escaláveis e resolver problemas complexos de negócio.
+
+Atualmente, combino a robustez do **Java/Spring Boot** no back-end com a interatividade do **React/React Native** no front-end. Tenho forte interesse em **IA Generativa**, **DevOps** e **Otimização de Performance**.
+
+- 🔭 **Trabalhando atualmente:** Desenvolvimento de soluções Full Stack e arquitetura de sistemas na Unect Jr.
+- 🌱 **Estudando:** Deep Learning (RAG/LLMs), Arquitetura de Microsserviços e Infraestrutura.
+- ⚡ **Curiosidade:** Adoro explorar como as coisas funcionam "debaixo do capô", desde a configuração de redes até a engenharia de prompts.
 
 ---
 
-### Sobre Mim
+### 🛠️ Tech Stack & Ferramentas
 
-👨‍💻 Atualmente, sou Desenvolvedor Front-End na [Unect Jr](https://github.com/unect-jr), a empresa júnior da UTFPR. Aqui, tenho a oportunidade de transformar conhecimento teórico em experiência prática, desenvolvendo projetos para clientes e participando de capacitações técnicas contínuas.
+**Backend & Arquitetura**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-🚀 Minha principal stack é focada em **JavaScript/TypeScript**, com experiência sólida no desenvolvimento de aplicações com **React.js** e **React Native**.
+**Frontend & Mobile**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-📚 Sou estudante de **Engenharia de Software na Universidade Tecnológica Federal do Paraná (UTFPR)**, onde construo minha base teórica em Estrutura de Dados, Programação Orientada a Objetos e outros conceitos fundamentais da computação.
+**Ferramentas & Conceitos**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Badge](https://img.shields.io/badge/Conceitos-SOLID%20%7C%20MVC%20%7C%20REST%20%7C%20Clean%20Code-bedcfe?style=for-the-badge)
 
-🌱 Estou em uma jornada de desenvolvimento contínuo para me tornar um **Desenvolvedor Full-Stack**. Meu plano de desenvolvimento individual (PDI) atual está focado no aprofundamento em tecnologias back-end.
+---
 
-### Tecnologias que Utilizo
+### 🏆 Projetos em Destaque
 
-| Front-End                               | Back-End (Estudando) | Outras Linguagens | Ferramentas e Banco de Dados |
-| --------------------------------------- | ------------------------------ | ----------------- | ---------------------------- |
-| React.js                                | Node.js                        | Python            | Git                          |
-| React Native                            | PHP (WordPress)                | Java              | Firebase                     |
-| JavaScript                              | Springboot                     | C                 | MySQL                        |
-| TypeScript                              |                                |                   | Metodologias Ágeis           |
-| HTML5 & CSS3                            |                                |                   |                              |
+#### 🤖 [Calamity Mod AI Assistant]([https://github.com/JoaoTrindade1404](https://github.com/JoaoTrindade1404/Terraria-Calamity-AI)) *(IA Generativa)*
+Um agente inteligente capaz de responder dúvidas complexas sobre jogos utilizando **RAG (Retrieval-Augmented Generation)**.
+- **Tech:** Python, Gemini 1.5 API, Embeddings, Web Scraping.
+- **Destaque:** Engenharia de prompt avançada para garantir precisão matemática nas respostas.
 
-### No que estou focado agora
+#### 🚌 [AETA App - Gestão de Transporte](Projeto para empresa Unect Jr) *(Mobile)*
+Aplicativo para gestão de associados e transporte estudantil com foco em uso offline.
+- **Tech:** React Native, Firebase, API Gateway.
+- **Impacto:** Implementação de identidade digital via QR Code e sistema robusto para redes instáveis.
 
-- 🎯 Aprofundando meus conhecimentos em **tecnologias back-end** para alcançar meu objetivo de ser um desenvolvedor Full-Stack.
-- 💡 Aprendendo **WordPress** para desenvolver o novo blog institucional da Unect Jr.
-- 🔎 Buscando ativamente por uma **oportunidade de estágio** para aplicar minhas habilidades, aprender com uma equipe experiente e contribuir para projetos desafiadores.
+#### 🛍️ [Game Marketplace API]([https://github.com/JoaoTrindade1404](https://github.com/JoaoTrindade1404/ProjetoPOO2)) *(Backend Robusto)*
+API REST inspirada na Steam, focada em integridade de dados e padrões de projeto.
+- **Tech:** Java, Spring Boot, PostgreSQL.
+- **Destaque:** Implementação de **ACID** para transações financeiras, Soft Delete e **Strategy Pattern** para regras de negócio.
 
-### Como me encontrar
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+![Joao's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoTrindade1404&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoTrindade1404&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+### 📬 Vamos nos conectar?
+
+Estou sempre aberto a discutir sobre tecnologia, Java, IA ou oportunidades de carreira.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-trindade-9104b4349/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoTrindade1404)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaotrindade430@gmail.com)
