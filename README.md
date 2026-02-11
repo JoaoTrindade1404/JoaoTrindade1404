@@ -1,76 +1,73 @@
 # Olá, eu sou o João Vitor! 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Engenharia%20de%20Software%20&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20Java%20%7C%20React%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=220&section=header&text=Building%20Scalable%20Solutions&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Engenharia%20de%20Software%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" />
 </div>
 
-### 🚀 Sobre Mim
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-trindade-9104b4349/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaotrindade430@gmail.com)
+  
+</div>
 
-Sou estudante de **Engenharia de Software na UTFPR** e Desenvolvedor Full Stack na **Unect Jr**. Minha paixão não é apenas escrever código, mas projetar arquiteturas escaláveis e resolver problemas complexos de negócio.
+---
 
-Atualmente, combino a robustez do **Java/Spring Boot** no back-end com a interatividade do **React/React Native** no front-end. Tenho forte interesse em **IA Generativa**, **DevOps** e **Otimização de Performance**.
+### 👨‍💻 Sobre Mim
 
-- 🔭 **Trabalhando atualmente:** Desenvolvimento de soluções Full Stack e arquitetura de sistemas na Unect Jr.
-- 🌱 **Estudando:** Deep Learning (RAG/LLMs), Arquitetura de Microsserviços e Infraestrutura.
-- ⚡ **Curiosidade:** Adoro explorar como as coisas funcionam "debaixo do capô", desde a configuração de redes até a engenharia de prompts.
+Sou estudante do 5º período de **Engenharia de Software na UTFPR** e atuo profissionalmente como **Desenvolvedor Full Stack na Unect Jr**.
+
+Diferente de apenas escrever código, meu foco é **entregar soluções completas**. No meu dia a dia, transito entre o Front-end e o Back-end, garantindo que a arquitetura seja escalável e a experiência do usuário seja fluida. Tenho paixão por **Clean Code**, **Arquitetura de Software** e por entender o ciclo de vida da aplicação, do banco de dados ao deploy.
+
+* 💼 **Experiência Real:** Atuo em projetos para clientes reais, lidando com prazos, regras de negócio complexas e manutenção de sistemas.
+* ☕ **Core Stack:** JavaScript/TypeScript (React, Node.js, NestJS) no trabalho e Java (Spring Boot) na formação acadêmica.
+* 🚀 **O que busco:** Oportunidades para aplicar meus conhecimentos em ambientes desafiadores, especialmente com Java/Spring ou ecossistema JS moderno.
+
+---
+
+### ⚡ O que faço no dia a dia
+
+Mais do que linguagens, estas são as **competências** que aplico nos meus projetos:
+
+| Domínio | O que eu resolvo |
+| :--- | :--- |
+| **Front-end Engineering** | Criação de interfaces responsivas com **React** e **Next.js**, gerenciamento de estado complexo e otimização de **Core Web Vitals**. |
+| **Back-end & API** | Construção de APIs RESTful robustas (Node/Java), documentação com **Swagger/Insomnia** e implementação de princípios **SOLID**. |
+| **Database & Integrity** | Modelagem de dados relacionais (**PostgreSQL**), controle de transações (ACID) e otimização de queries. |
+| **DevOps & Deploy** | Configuração de ambientes com **Docker**, pipelines de CI/CD e deploy em nuvem (Vercel/Render). |
 
 ---
 
 ### 🛠️ Tech Stack & Ferramentas
 
-**Backend & Arquitetura**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Frontend & Mobile**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Ferramentas & Conceitos**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Badge](https://img.shields.io/badge/Conceitos-SOLID%20%7C%20MVC%20%7C%20REST%20%7C%20Clean%20Code-bedcfe?style=for-the-badge)
-
----
-
-### 🏆 Projetos em Destaque
-
-#### 🤖 [Calamity Mod AI Assistant](https://github.com/JoaoTrindade1404/Terraria-Calamity-AI) *(IA Generativa)*
-Um agente inteligente capaz de responder dúvidas complexas sobre jogos utilizando **RAG (Retrieval-Augmented Generation)**.
-- **Tech:** Python, Gemini 1.5 API, Embeddings, Web Scraping.
-- **Destaque:** Engenharia de prompt avançada para garantir precisão matemática nas respostas.
-
-#### 📝 **Módulo de Blog Institucional** *(Frontend Architecture)*
-Desenvolvi sozinho a arquitetura e as páginas do blog da Unect Jr, consumindo uma API WordPress Headless.
-- **Tech:** React.js, WordPress API, Service/Repository Pattern.
-- **Impacto:** Criei toda a lógica de integração e renderização. Otimizei a performance com estratégias de *Debounce* e carregamento progressivo, reduzindo o tempo de carga em **25%**.
-
-#### 🛍️ [Game Marketplace API](https://github.com/JoaoTrindade1404/ProjetoPOO2) *(Backend Robusto)*
-API REST inspirada na Steam, focada em integridade de dados e padrões de projeto.
-- **Tech:** Java, Spring Boot, PostgreSQL.
-- **Destaque:** Implementação de **ACID** para transações financeiras, Soft Delete e **Strategy Pattern** para regras de negócio.
-
----
-
 <div align="center">
 
-### 📊 GitHub Stats
+**Linguagens & Frameworks**
+<br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 
-![Joao's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoTrindade1404&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoTrindade1404&layout=compact&theme=tokyonight)
+**Banco de Dados & Infra**
+<br>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" />
 
 </div>
 
 ---
 
-### 📬 Vamos nos conectar?
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoTrindade1404&theme=tokyonight" alt="Profile Details" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoaoTrindade1404&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+</div>
 
-Estou sempre aberto a discutir sobre tecnologia, Java, IA ou oportunidades de carreira.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-trindade-9104b4349/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaotrindade430@gmail.com)
+---
