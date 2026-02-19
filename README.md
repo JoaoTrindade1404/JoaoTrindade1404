@@ -58,11 +58,14 @@
 <h2 align="center">⭐ Repositórios (pinned)</h2>
 
 <p align="center">
-  <a href="https://github.com/JoaoTrindade1404/SEU_REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoTrindade1404&repo=Nest-Blog&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/JoaoTrindade1404/nest-blog">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoTrindade1404&repo=nest-blog&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/JoaoTrindade1404/SEU_REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoTrindade1404&repo=Game-Market&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/JoaoTrindade1404/ProjetoPOO2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoTrindade1404&repo=ProjetoPOO2&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/JoaoTrindade1404/Portifolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoTrindade1404&repo=Portifolio&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
