@@ -59,13 +59,13 @@
 
 <p align="center">
   <a href="https://github.com/JoaoTrindade1404/nest-blog">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoTrindade1404&repo=nest-blog&theme=tokyonight&hide_border=true" />
+    <img src="./profile/pins/pin-nest-blog.svg" />
   </a>
   <a href="https://github.com/JoaoTrindade1404/ProjetoPOO2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoTrindade1404&repo=ProjetoPOO2&theme=tokyonight&hide_border=true" />
+    <img src="./profile/pins/pin-ProjetoPOO2.svg" />
   </a>
   <a href="https://github.com/JoaoTrindade1404/Portifolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoTrindade1404&repo=Portifolio&theme=tokyonight&hide_border=true" />
+    <img src="./profile/pins/pin-Portifolio.svg" />
   </a>
 </p>
 
