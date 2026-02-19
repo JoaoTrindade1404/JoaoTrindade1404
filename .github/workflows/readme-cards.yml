@@ -1,0 +1,47 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # a cada 12 horas
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate pin (nest-blog)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=nest-blog&theme=tokyonight&hide_border=true
+          path: profile/pins/pin-nest-blog.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin (ProjetoPOO2)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=ProjetoPOO2&theme=tokyonight&hide_border=true
+          path: profile/pins/pin-ProjetoPOO2.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin (Portifolio)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=Portifolio&theme=tokyonight&hide_border=true
+          path: profile/pins/pin-Portifolio.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/pins/*.svg
+          git commit -m "Update pinned cards" || exit 0
+          git push
