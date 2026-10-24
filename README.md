@@ -93,10 +93,10 @@
 <h2 align="center">⚡ Atividade recente</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/projetotedi/tedi-front/pull/18) in [projetotedi/tedi-front](https://github.com/projetotedi/tedi-front)
-2. 🎉 Merged PR [#17](https://github.com/projetotedi/tedi-front/pull/17) in [projetotedi/tedi-front](https://github.com/projetotedi/tedi-front)
-3. ℹ️ Assigned PR [#18](https://github.com/projetotedi/tedi-front/pull/18) in [projetotedi/tedi-front](https://github.com/projetotedi/tedi-front)
-4. ℹ️ Labeled PR [#18](https://github.com/projetotedi/tedi-front/pull/18) in [projetotedi/tedi-front](https://github.com/projetotedi/tedi-front)
+1. ℹ️ Assigned PR [#30](https://github.com/projetotedi/tedi-back/pull/30) in [projetotedi/tedi-back](https://github.com/projetotedi/tedi-back)
+2. ℹ️ Labeled PR [#30](https://github.com/projetotedi/tedi-back/pull/30) in [projetotedi/tedi-back](https://github.com/projetotedi/tedi-back)
+3. ℹ️ Labeled PR [#30](https://github.com/projetotedi/tedi-back/pull/30) in [projetotedi/tedi-back](https://github.com/projetotedi/tedi-back)
+4. ℹ️ Labeled PR [#30](https://github.com/projetotedi/tedi-back/pull/30) in [projetotedi/tedi-back](https://github.com/projetotedi/tedi-back)
 <!--END_SECTION:activity-->
 
 <hr/>
