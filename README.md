@@ -93,10 +93,10 @@
 <h2 align="center">⚡ Atividade recente</h2>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#31](https://github.com/projetotedi/tedi-front/pull/31) in [projetotedi/tedi-front](https://github.com/projetotedi/tedi-front)
-2. ℹ️ Labeled PR [#31](https://github.com/projetotedi/tedi-front/pull/31) in [projetotedi/tedi-front](https://github.com/projetotedi/tedi-front)
-3. ℹ️ Labeled PR [#31](https://github.com/projetotedi/tedi-front/pull/31) in [projetotedi/tedi-front](https://github.com/projetotedi/tedi-front)
-4. 💪 Opened PR [#31](https://github.com/projetotedi/tedi-front/pull/31) in [projetotedi/tedi-front](https://github.com/projetotedi/tedi-front)
+1. ℹ️ Assigned PR [#32](https://github.com/projetotedi/tedi-front/pull/32) in [projetotedi/tedi-front](https://github.com/projetotedi/tedi-front)
+2. ℹ️ Labeled PR [#32](https://github.com/projetotedi/tedi-front/pull/32) in [projetotedi/tedi-front](https://github.com/projetotedi/tedi-front)
+3. ℹ️ Labeled PR [#32](https://github.com/projetotedi/tedi-front/pull/32) in [projetotedi/tedi-front](https://github.com/projetotedi/tedi-front)
+4. 💪 Opened PR [#32](https://github.com/projetotedi/tedi-front/pull/32) in [projetotedi/tedi-front](https://github.com/projetotedi/tedi-front)
 <!--END_SECTION:activity-->
 
 <hr/>
