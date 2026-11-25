@@ -93,10 +93,10 @@
 <h2 align="center">⚡ Atividade recente</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/gustavolovizotto/semestresafe/pull/3) in [gustavolovizotto/semestresafe](https://github.com/gustavolovizotto/semestresafe)
-2. ℹ️ Assigned PR [#3](https://github.com/gustavolovizotto/semestresafe/pull/3) in [gustavolovizotto/semestresafe](https://github.com/gustavolovizotto/semestresafe)
-3. 🎉 Merged PR [#32](https://github.com/projetotedi/tedi-front/pull/32) in [projetotedi/tedi-front](https://github.com/projetotedi/tedi-front)
-4. ℹ️ Assigned PR [#32](https://github.com/projetotedi/tedi-front/pull/32) in [projetotedi/tedi-front](https://github.com/projetotedi/tedi-front)
+1. 🎉 Merged PR [#31](https://github.com/projetotedi/tedi-front/pull/31) in [projetotedi/tedi-front](https://github.com/projetotedi/tedi-front)
+2. 🎉 Merged PR [#30](https://github.com/projetotedi/tedi-back/pull/30) in [projetotedi/tedi-back](https://github.com/projetotedi/tedi-back)
+3. 🎉 Merged PR [#3](https://github.com/gustavolovizotto/semestresafe/pull/3) in [gustavolovizotto/semestresafe](https://github.com/gustavolovizotto/semestresafe)
+4. 💪 Opened PR [#3](https://github.com/gustavolovizotto/semestresafe/pull/3) in [gustavolovizotto/semestresafe](https://github.com/gustavolovizotto/semestresafe)
 <!--END_SECTION:activity-->
 
 <hr/>
